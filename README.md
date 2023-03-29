@@ -1,5 +1,8 @@
 # Durham_Master_Data_Science
 
+*感谢一位同学的提醒，assignment public要等到10月份以后，暂时将assignments 改成 private， 放出来一些不涉及assignment的内容*
+
+
 | Index | Module Title | Lecturer | Credits |
 | --- | --- | --- | --- |
 | COMP42215_2022 | Introduction to Computer Science | Dr Robert Powell | 15 |
@@ -29,6 +32,155 @@ Programme and Module Handbook_g5k823 是g5k823 22Fall选课说明，其他分支
 - 善用ChatGPT：用ChatGPT学习，而不是直接让ChatGPT给你写essay
 - 文科类的essay不要一条一条ctrl+v粘贴参考文献了，学学Zotero吧，简单入门即可，装上插件（Zotero PDF Translate）就可以实现划词翻译了。简单学学就足够写essay、毕业论文了。
 - 认识一下[Overleaf](http://overleaf.com)，LaTeX语言写各种report，对数学、计算机的Report非常友好，比word写出来的论文漂亮多了，我上传的pdf report就是用的Overleaf写的。一年也就几个report，常用到的代码也就几个，特殊代码ChatGPT查一下就好了。Overleaf使用Durham账号登录就可以使用overleaf premium。
+
+## ICS -- COMP42215 Introduction to Computer Science
+*Dr Rob Powell – Course Lecturer*
+
+### Content
+- Topic 1 - Python Data Types  
+- Topic 2 - Python Data Structures  
+- Topic 3 - Control Flow  
+- Topic 4 - Functions and Modules  
+- Topic 5 - NumPy  
+- Topic 6 - Towards Data Science  
+- Topic 7 - Towards Economics and Finance with Pandas  
+- Topic 8 - Error Checking  
+- IO In Python  
+
+
+## ISDS -- MATH42715: Introduction To Statistics For Data Science
+*[Lecturer: Dr Tahani Coolen-Maturi](https://tahanimaturi.com)*  
+*[Lecturer: Dr Sarah Heaps](https://conferences.ncl.ac.uk/wisdom/personalprofiles/academicstafffrommathsstatsphysics/)*
+
+[Workshop2022: Introduction to Statistics for Data Science](https://tmaturi.github.io/ISDS2022/index.html) 
+
+### Content
+- Week 1
+  - 1 Basic Concepts 
+  - 2 Data Types in Statistics  
+  - 3 Descriptive Statistics   
+  - 4 Continuous Distributions   
+  - 5 Sampling   
+  - 6 Estimation 
+  - 7 Hypothesis Testing One Sample 
+  - 8 Hypothesis Testing Two Samples 
+  - 9 Nonparametric Tests 
+- Week 2
+  - 1 Correlation
+  - 2 Simple regression: Introduction
+  - 3 Simple Regression: Coeﬃcient of Determination
+  - 4 Simple Linear Regression: Assumptions
+  - 5 Simple Linear Regression: Inference
+  - 6 Simple Linear Regression: Conﬁdence and Prediction intervals
+  - 7 Multiple Linear Regression: Introduction  
+- Week 3
+  - 1 Introduction to Variable Selection
+  - 2 Assessing Predictive Error
+  - 3 Cross-Validation
+  - 4 The Bootstrap
+- Week 4
+- 1 Introduction
+- 2 Model-Based Classiﬁcation
+- 3 Logistic Regression  
+- 4 Discriminant Analysis  
+- 5 Assessing Predictive Error and Cross-Validation
+
+
+## MATH42815_2022 -- Machine Learning
+*[Dr Samuel Jackson](https://uk.linkedin.com/in/dr-samuel-jackson-4b8952152)*  
+*[Dr Hailiang Du](https://uk.linkedin.com/in/hailiang-du-b9278710a)*  
+
+[Workshop2022: Machine Learning Part I](https://bookdown.org/ssjackson300/Machine-Learning-Lecture-Notes/)  
+[Workshop2022: Machine Learning Part II](https://bookdown.org/hailiangdu/Lecture_notes/)
+
+Assignment 1 Online 选择或填空，不再上传具体题目  
+Assignment 2 Ungraded
+
+### Content
+- I Variable Subset Selection
+  - 1 Variable Subset Selection
+  - 2 Model Search Methods
+- II Shrinkage
+  - 3 Ridge Regression
+  - 4 The Lasso
+  - 5 Choosing 𝜆
+  - 6 Principal Component Regression
+- III Transformation
+  - 7 Polynomial Regression
+  - 8 Step Functions
+  - 9 Splines
+  - 10 Generalised Additive Models
+
+- 1 Recap and Basic Concepts
+  - 1.1 Supervised and Unsupervised Learning
+  - 1.2 Classificationand Regression 
+  - 1.3 Parametric vs non-parametric models
+  - 1.4 Uncertainty
+  - 1.5 Model Assessment 
+  - 1.6 What do we need?
+  - 1.7 Models learned so far
+- 2 Tree-based Models
+  - 2.1 Classification and Regression Trees 
+  - 2.2 Bagging
+  - 2.3 Random Forests
+  - 2.4 Boosting
+- 3 Neural Networks and Deep Learning
+  - 3.1 Motivation
+  - 3.2 Warmup 
+  - 3.3 Feedforward Neural Networks 
+  - 3.4 Gradient Descent Optimization 
+  - 3.5 Overfitting
+  - 3.6 Convolutional neural networks (CNNs) 
+  - 3.7 Autoencoder
+
+
+## DEVUL -- MATH42515_2022 Data Exploration, Visualization and Unsupervised Learning  
+*[Lecturer: Dr Jonathan Cumming](https://www.durham.ac.uk/staff/j-a-cumming/)*  
+*[Lecturer: Dr Hyeyoung Maeng](https://sites.google.com/view/hmaeng/home)* 
+
+[Workshop2022: Data Exploration and Visualization](https://maths.dur.ac.uk/stats/MDS-DEVUL/index.html)  
+[Workshop2022: Unsupervised Learning](https://hmaeng.github.io/devul23/index.html)  
+
+Assignment 1 Ungraded
+Assignment 2 Ungraded
+
+### Content
+- Lecture 1 - Exploratory Data Analysis
+- Lecture 2 - Exploring Continuous Variables
+- Lecture 3 - Exploring Categorical Variables
+- Lecture 4 - Dependency, Relationships, and Associations
+- Lecture 5 - Exploring Multivariate Continuous Data
+- Lecture 6 - Exploring Many Categorical Variables
+- Lecture 7 - Comparisons and Data Quality
+- Lecture 8 - Smoothing and Kernel Denisty Estimation
+- Lecture 9 - Exploring Time Series
+- Lecture 10 - Making Effective Data Visualisations
+
+- Introduction: Unsupervised Learning
+- Dimension reduction: Principal component analysis
+- Dimension reduction: Correspondence Analysis
+- Latent variable models: Factor Analysis
+- Cluster Analysis: K-means Clustering
+- Cluster Analysis: Hierarchical Clustering
+- Association: Market Basket Analysis
+
+
+## TMLA -- COMP42415_2022 Text Mining and Language Analytics
+
+*[Lecturer: Dr Stamos Katsigiannis](https://www.durham.ac.uk/staff/stamos-katsigiannis/)*
+
+Assignment: Ungraded
+
+### Content
+- Lecture 0 - About the course
+- Lecture 1 - Text pre-processing
+- Lecture 2 - One-hot encoding & Term frequency-based representation
+- Lecture 3 - N-grams
+- Lecture 4 - Word Embeddings I
+- Lecture 5 - Feed-forward Neural Networks & Convolutional Neural Networks
+- Lecture 6 - Word Embeddings II
+- Lecture 7 - Naive Bayes and Sentiment Classification
+- Lecture 8 - Recurrent Neural Networks & Long Short-term Memory
 
 
 ## PHIL42415_2022 -- Ethics and Bias in Data Science 
