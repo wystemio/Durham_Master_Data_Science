@@ -28,7 +28,7 @@ Programme and Module Handbook_g5k823 是g5k823 22Fall选课说明，其他分支
 
 ## Tips：
 - 很多人的信息检索能力太差了，要努力提高呀，学习一下检索技巧（其实就是多加关键词和一些特殊作用的符号，再加上点耐心）
-- 出来了就不要再用百度了，主打还是Google吧，如果想用bing，也要用New Bing（虽然我一致没用，但是据说接入ChatGPT的接口后还是很强大的）
+- 出来了就不要再用百度了，还是Google吧，如果想用bing，也要用New Bing（虽然我一直没用，但是据说接入ChatGPT的接口后还是很强大的）【内事问百度，外事问谷歌】
 - 善用ChatGPT：用ChatGPT学习，而不是直接让ChatGPT给你写essay
 - 文科类的essay不要一条一条ctrl+v粘贴参考文献了，学学Zotero吧，简单入门即可，装上插件（Zotero PDF Translate）就可以实现划词翻译了。简单学学就足够写essay、毕业论文了。
 - 认识一下[Overleaf](http://overleaf.com)，LaTeX语言写各种report，对数学、计算机的Report非常友好，比word写出来的论文漂亮多了，我上传的pdf report就是用的Overleaf写的。一年也就几个report，常用到的代码也就几个，特殊代码ChatGPT查一下就好了。Overleaf使用Durham账号登录就可以使用overleaf premium。
