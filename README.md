@@ -79,11 +79,11 @@ Programme and Module Handbook_g5k823 是g5k823 22Fall选课说明，其他分支
   - 3 Cross-Validation
   - 4 The Bootstrap
 - Week 4
-- 1 Introduction
-- 2 Model-Based Classiﬁcation
-- 3 Logistic Regression  
-- 4 Discriminant Analysis  
-- 5 Assessing Predictive Error and Cross-Validation
+  - 1 Introduction
+  - 2 Model-Based Classiﬁcation
+  - 3 Logistic Regression  
+  - 4 Discriminant Analysis  
+  - 5 Assessing Predictive Error and Cross-Validation
 
 
 ## MATH42815_2022 -- Machine Learning
