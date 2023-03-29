@@ -20,7 +20,7 @@ EBDS和Strategic Leadership这种文科型作业就是essay，就不上传交的
 IMDS这门课没选，但是既然可以看到课程内容，一起放在这个页面供参考  
 MATH的课程都是用的R，其中Dr Hailiang Du的ML部分是不强制使用什么语言的，而且作业不用交代码   
 COMP的课程都是用Python，而且分数较高，能选COMP的课尽量COMP   
-其他我选择的课程内容依据课程放到相应文件夹中   
+~~其他我选择的课程内容依据课程放到相应文件夹中~~   
 Programme and Module Handbook_g5k823 是g5k823 22Fall选课说明，其他分支都有相应的Handbook，可以自己去官网下载
 
 上传的作业可以作为参考，主要参考老师给的feedback，大概率这些feedback的点也是以后Assignment中的得分点，看了老师的feedback，做Assignment的时候避免这些点失分，也许可以多得几分。  
