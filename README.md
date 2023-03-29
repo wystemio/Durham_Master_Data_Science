@@ -206,7 +206,7 @@ Assignment: Ungraded
 - Week 10: Leadership and Gender & Leading Across Cultures
 
 ## MATH42615_2022 -- Introduction to Mathematics for Data Science
-*没选这门课，但是资料放开，所以也一并展示出来*
+*没选这门课，但是资料放开，所以也一并展示出来，供可能选课的同学参考*
 - Week 1: Basics of vectors  
 We will start by looking at how vectors can be used to help us describe various things in the world. This leads to looking at the basic geometry of vectors. Covers lecture videos 1.1 to 3.2
 - Week 2: Matrices and linear transformations  
