@@ -1,6 +1,6 @@
 # Durham_Master_Data_Science
 
-*感谢一位同学的提醒，assignment public要等到10月份以后，暂时将assignments 改成 private， 放出来一些不涉及assignment的内容*
+*~~感谢一位同学的提醒，assignment public要等到10月份以后，暂时将assignments 改成 private， 放出来一些不涉及assignment的内容~~*
 
 
 | Index | Module Title | Lecturer | Credits |
