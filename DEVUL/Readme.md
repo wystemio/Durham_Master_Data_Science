@@ -5,7 +5,7 @@
 [Workshop2022: Data Exploration and Visualization](https://maths.dur.ac.uk/stats/MDS-DEVUL/index.html)  
 [Workshop2022: Unsupervised Learning](https://hmaeng.github.io/devul23/index.html)  
 
-Assignment 1 Ungraded
+Assignment 1 Ungraded  
 Assignment 2 Ungraded
 
 ## Content
