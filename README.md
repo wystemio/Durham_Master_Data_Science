@@ -1,7 +1,5 @@
 # Durham_Master_Data_Science
 
-## 资料放到了新的项目中 "Durham_Master_Data_Science22"
-
 
 
 | Index | Module Title | Lecturer | Credits |
